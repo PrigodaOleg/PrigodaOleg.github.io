@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrigodaOleg.github.io/static/css/main.fb4878b5.css",
+    "main.js": "/PrigodaOleg.github.io/static/js/main.2e39fe46.js",
+    "static/js/496.32139168.chunk.js": "/PrigodaOleg.github.io/static/js/496.32139168.chunk.js",
+    "index.html": "/PrigodaOleg.github.io/index.html",
+    "main.fb4878b5.css.map": "/PrigodaOleg.github.io/static/css/main.fb4878b5.css.map",
+    "main.2e39fe46.js.map": "/PrigodaOleg.github.io/static/js/main.2e39fe46.js.map",
+    "496.32139168.chunk.js.map": "/PrigodaOleg.github.io/static/js/496.32139168.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4878b5.css",
+    "static/js/main.2e39fe46.js"
+  ]
+}
