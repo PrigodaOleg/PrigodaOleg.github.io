@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/PrigodaOleg.github.io/static/css/main.fb4878b5.css",
-    "main.js": "/PrigodaOleg.github.io/static/js/main.2e39fe46.js",
-    "static/js/496.32139168.chunk.js": "/PrigodaOleg.github.io/static/js/496.32139168.chunk.js",
-    "index.html": "/PrigodaOleg.github.io/index.html",
-    "main.fb4878b5.css.map": "/PrigodaOleg.github.io/static/css/main.fb4878b5.css.map",
-    "main.2e39fe46.js.map": "/PrigodaOleg.github.io/static/js/main.2e39fe46.js.map",
-    "496.32139168.chunk.js.map": "/PrigodaOleg.github.io/static/js/496.32139168.chunk.js.map"
+    "main.css": "/static/css/main.fb4878b5.css",
+    "main.js": "/static/js/main.bf4852fb.js",
+    "static/js/496.32139168.chunk.js": "/static/js/496.32139168.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fb4878b5.css.map": "/static/css/main.fb4878b5.css.map",
+    "main.bf4852fb.js.map": "/static/js/main.bf4852fb.js.map",
+    "496.32139168.chunk.js.map": "/static/js/496.32139168.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4878b5.css",
-    "static/js/main.2e39fe46.js"
+    "static/js/main.bf4852fb.js"
   ]
 }
